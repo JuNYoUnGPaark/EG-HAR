@@ -1,1 +1,1 @@
-# Moving-Avg-HAR
+# Moving-Energy-HAR
